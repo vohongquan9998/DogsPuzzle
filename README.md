@@ -2,7 +2,7 @@
 
 'Dogs Puzzle' is a Jigsaw Puzzle Game make from Constuct 2 engine :jigsaw:
 
-Play Now : [Here](https://dogspuzzle.firebaseapp.com/) :point_left:
+Play Now (Desktop Only) : [Here](https://dogspuzzle.firebaseapp.com/) :point_left:
 
 ## Feature :game_die:
 
