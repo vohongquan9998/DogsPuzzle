@@ -6,7 +6,7 @@ Play Now (Desktop Only) : [Here](https://dogspuzzle.firebaseapp.com/) :point_lef
 
 ## Feature :game_die:
 
-- This version has 20 level (Full version will has 120) and goes from easy to hard
+- This version has 28 level (Full version will has 120) and goes from easy to hard
 - All assets in game designed by me.
 - The game will save your progress to local storage so you don't need to play again when close browser.
 
